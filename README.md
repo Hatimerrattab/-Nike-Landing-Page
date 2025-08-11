@@ -1,42 +1,32 @@
-# React + Vite
+# React + Vite Nike Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive landing page for **Nike**, built with **React**, **Vite**, and **Tailwind CSS** — optimized for performance and mobile-first design.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## ---------------------------------------------------------------------
-
-# Project README
-
-Build a stunning Nike landing page,
+---
 
 ## Tech Stack
+- ⚛️ React.js  
+- ⚡ Vite (blazing fast bundler)  
+- 🎨 Tailwind CSS (utility-first styling)
 
--Tailwind CSS
--Reactjs
+---
 
-# Features
+## Features
+- 🎯 **Engaging Hero Section** with dynamic visuals  
+- 🛍️ **Popular Products Showcase**  
+- 📖 **About Us** with unique, clean design  
+- 💥 **Special Offers** highlight  
+- 💬 **Customer Testimonials**  
+- 📧 **Newsletter Subscription** styled with Tailwind  
+- 🦶 **Fully Mobile Responsive**  
+- 📜 **Semantic, accessible HTML**
 
-👉 Complex Hero Section: A visually appealing hero section showcasing key elements.
+---
 
-👉 Popular Products Showcase: A section highlighting popular Nike products
+## Getting Started
 
-👉 About Us Section: An informative "About Us" section with a unique design.
-
-👉 Special Offers: Showcase special offers in an eye-catching manner
-
-👉 Testimonials: A testimonials section for a captivating user experience
-
-👉 Newsletter Integration: A newsletter section with Tailwind styling, encouraging user engagement
-
-👉 Footer: A comprehensive footer section containing various links
-
-👉 Mobile Responsive: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
-
-# Tutorial and Refrence
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, JavaScript Mastery.
-Thanks to Adrian!
+```bash
+git clone https://github.com/Hatimerrattab/-Nike-Landing-Page.git
+cd -Nike-Landing-Page
+npm install
+npm run dev
